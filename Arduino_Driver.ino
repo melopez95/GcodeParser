@@ -1,13 +1,3 @@
-// Shows how to run three Steppers at once with varying speeds
-//
-// Requires the Adafruit_Motorshield v2 library
-//   https://github.com/adafruit/Adafruit_Motor_Shield_V2_Library
-// And AccelStepper with AFMotor support
-//   https://github.com/adafruit/AccelStepper
-
-// This tutorial is for Adafruit Motorshield v2 only!
-// Will not work with v1 shields
-
 #include <AccelStepper.h>
 #include <Wire.h>
 #include <Adafruit_MotorShield.h>
